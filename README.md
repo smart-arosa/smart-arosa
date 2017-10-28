@@ -17,10 +17,17 @@ Bluetooth Low Energy Beacon Technology can be used to /annotate/ they physical s
  
  ## Advantages for Tourists
  
-  * They are'nt tourists: they discover on their own
-  * They can see through walls: thy can take see what other places there are behind the wall of the museum they're visiting
-  * They avoid they queue buy having real-time data on which ski lift there's not a lot of people
+ * They are'nt tourists: they discover on their own
+ * They can see through walls: thy can take see what other places there are behind the wall of the museum they're visiting
+ * They avoid they queue buy having real-time data on which ski lift there's not a lot of people
 
 ## Data used
+ 
+ * A small subset of wikidata
 
 ## Data missed
+
+ * Real time data on usage of facilities
+ * Geotagged pictures
+ * More informtaion about monuments/places
+ 
