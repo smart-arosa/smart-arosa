@@ -24,7 +24,7 @@ Bluetooth Low Energy Beacon Technology can be used to /annotate/ they physical s
 ## Data used
  
  * A small subset of wikidata
- * Transport data ("Where to go fromhere?")
+ * Transport data ("Where do I go next?")
 
 ## Data missed
 
