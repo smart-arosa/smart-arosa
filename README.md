@@ -1,4 +1,4 @@
-# smart-arosa
+# Smart-Arosa
 Connecting the physical space with the information space
 
 ## The situation
